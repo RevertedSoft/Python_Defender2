@@ -1,0 +1,7 @@
+// New engines should be made with the following attributes.
+// name, maxSpeed, acceleration(how much force is applied per tick), reactorUse(how much reactor is used while the 
+// engine is active).
+Basic Engine, 4.0, 0.12, 1
+Thruster Engine, 7.0, 0.1, 2
+Maneuvering Engine, 5.0, 0.3, 3
+Particle Propulsion Engine, 6.0, 0.55, 4

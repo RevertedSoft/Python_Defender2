@@ -1,0 +1,5 @@
+// New reactors should be made with the following attributes.
+// name, capacity, recharge(the amount of capacitor recharged per tick)
+Basic Reactor, 150, 5
+Advanced Reactor, 375, 8
+Quantum Reactor, 650, 13

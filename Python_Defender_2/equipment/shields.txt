@@ -1,0 +1,7 @@
+// New shields should be created with the following attributes in order.
+// name, strength(the max hit points of the shield), recharge(how fast it recharges per tick),
+// reactorUse(how much reactor it uses while recharging. It uses an additional half at all times while active)
+Basic Shield, 500, 0.25, 2
+Light Shield, 800, 0.5, 3
+Advanced Shield, 1200, 1.25, 6
+Heavy Shield, 2000, 2, 8
